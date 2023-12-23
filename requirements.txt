@@ -1,0 +1,6 @@
+pandas
+joblib
+streamlit
+sentence-transformers
+torch
+nltk
